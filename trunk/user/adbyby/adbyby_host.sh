@@ -4,3 +4,5 @@
 https://cdn.jsdelivr.net/gh/VeleSila/yhosts/hosts
 #tvbox
 https://dev.tencent.com/u/shaoxia1991/p/yhosts/git/raw/master/data/tvbox.txt
+#GitHub
+https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts
